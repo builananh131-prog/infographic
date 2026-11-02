@@ -1,0 +1,6 @@
+{
+  "name": "Infographic Treebank - Chuỗi Giá Trị FSC Tam Thái",
+  "description": "Infographic Treebank tương tác mô phỏng hành trình 5 năm phát triển rừng tre mét bền vững đạt chứng chỉ FSC và chuỗi giá trị 4 nhà tại xã Tam Thái, Nghệ An.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
